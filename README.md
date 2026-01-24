@@ -1,8 +1,8 @@
-# TravelAmaze - Responsive Travel Agency Landing Page
+# Travel Agency - Responsive Travel Agency Landing Page
 
 ## Project Overview
 
-TravelAmaze is a responsive landing page for a travel agency, featuring a fixed interactive navigation menu, smooth scrolling, hover effects, and section-based transitions. The design is optimized for desktop and mobile devices.
+Travel Agency is a responsive landing page for a travel agency, featuring a fixed interactive navigation menu, smooth scrolling, hover effects, and section-based transitions. The design is optimized for desktop and mobile devices.
 
 
 ## 🔗 Live Website:
